@@ -7,5 +7,9 @@ body {font-family: Verdana, arial, sans-serif;
 header {background-color: #9bC1C2;}
 h1 {line-height: 200%;}
 nav {text-align: center;
-    text-decoration: bold;}
+    font-weight: bold;}
 nav a {text-decoration: none;}
+footer {background-color: #9bc1c2;
+    font-size: .60em;
+    text-align: center;
+    font-style: italic;}
