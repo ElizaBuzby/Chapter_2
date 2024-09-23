@@ -5,3 +5,4 @@ header {background-color: #9bC1C2;}
 h1 {line-height: 200%;}
 nav {text-align: center;
     text-decoration: bold;}
+nav a {text-decoration: none;}
